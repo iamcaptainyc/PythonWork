@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//model/transunet.py=utf-8
+encoding//model/transunetpp.py=utf-8
+encoding/loss.py=utf-8
