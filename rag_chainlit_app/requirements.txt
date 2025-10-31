@@ -1,0 +1,9 @@
+sentence-transformers
+transformers
+langchain
+langgraph
+langchain_community
+langchain_chroma
+chainlit
+pypdf
+acclerate
